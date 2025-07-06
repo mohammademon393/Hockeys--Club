@@ -1,0 +1,35 @@
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 330px;
+    
+}
+header{
+    margin: 10px 30px;
+    margin-top: 20px;
+}
+button{
+    width: 150px;
+    height: 60px;
+    color: white;
+    background-color: #FF4240;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.nav-d1 p{
+    font-size: 18px;
+    font-weight: normal;
+    /* margin-top: 40px; */
+    display: grid;
+    align-items: center;
+}
+h2{
+    font-size: 36px;
+    font-weight: bolder;
+}
+.nav-d1{
+    display: flex;
+    gap: 20px;
+}
